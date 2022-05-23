@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: nl.cloudfarming.eventbus:cloudfarming-eventbus:1.0.3">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/nl/cloudfarming/eventbus/cloudfarming-eventbus/1.0.3/cloudfarming-eventbus-1.0.3.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/nl/cloudfarming/eventbus/cloudfarming-eventbus/1.0.3/cloudfarming-eventbus-1.0.3-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/nl/cloudfarming/eventbus/cloudfarming-eventbus/1.0.3/cloudfarming-eventbus-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
